@@ -19,7 +19,7 @@ Added downloadable CV
 ## Installation
 
 Personal portfolio can be opened using this link:
-( https://fjviktorija.github.io/My-Portfolio/ )
+( https://fjviktorija.github.io/Porfolio-2-/ )
 
 ## Usage
 
