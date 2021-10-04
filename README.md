@@ -23,4 +23,5 @@ Personal portfolio can be opened using this link:
 
 ## Usage
 
-![Personal portfolio includes a navigation bar, a header image,personal information, highlights positions for future projects and contact form at bottom of the page.](./img/IMG_1.jpg)
+![Personal portfolio includes a navigation bar, a header image,personal information, highlights positions for future projects and contact form at bottom of the page.]<img width="1792" alt="Screenshot 2021-10-04 at 03 04 08" src="https://user-images.githubusercontent.com/83015268/135886185-e879c616-389e-4574-bbb2-86ac8b3c642c.png">
+
